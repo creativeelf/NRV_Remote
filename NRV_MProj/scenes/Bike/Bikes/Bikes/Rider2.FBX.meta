@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: ed82a7ac2daac054c9addd71c8d2f716
+timeCreated: 1505800211
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: Box003
+    100006: Box005
+    100008: brake back
+    100010: brake front
+    100012: Camera001.Target
+    100014: chain
+    100016: cogwheel
+    100018: cogwheel 2
+    100020: Donut003
+    100022: Donut004
+    100024: Dummy001
+    100026: Hose003
+    100028: Hose004
+    100030: Hose005
+    100032: Hose006
+    100034: Hose007
+    100036: Hose008
+    100038: Hose009
+    100040: Hose010
+    100042: Hose011
+    100044: Hose012
+    100046: Hose013
+    100048: Hose014
+    100050: Hose015
+    100052: Hose016
+    100054: Hose017
+    100056: Line005
+    100058: Line007
+    100060: Line011
+    100062: NGon001
+    100064: Object003
+    100066: Object004
+    100068: Omni001
+    100070: pedal
+    100072: pedal 1
+    100074: Plane001
+    100076: saddle
+    100078: steering wheel
+    100080: steering wheel_MeshPart0
+    100082: steering wheel_MeshPart1
+    100084: wheel
+    100086: wheel 1
+    400000: //RootNode
+    400002: body
+    400004: Box003
+    400006: Box005
+    400008: brake back
+    400010: brake front
+    400012: Camera001.Target
+    400014: chain
+    400016: cogwheel
+    400018: cogwheel 2
+    400020: Donut003
+    400022: Donut004
+    400024: Dummy001
+    400026: Hose003
+    400028: Hose004
+    400030: Hose005
+    400032: Hose006
+    400034: Hose007
+    400036: Hose008
+    400038: Hose009
+    400040: Hose010
+    400042: Hose011
+    400044: Hose012
+    400046: Hose013
+    400048: Hose014
+    400050: Hose015
+    400052: Hose016
+    400054: Hose017
+    400056: Line005
+    400058: Line007
+    400060: Line011
+    400062: NGon001
+    400064: Object003
+    400066: Object004
+    400068: Omni001
+    400070: pedal
+    400072: pedal 1
+    400074: Plane001
+    400076: saddle
+    400078: steering wheel
+    400080: steering wheel_MeshPart0
+    400082: steering wheel_MeshPart1
+    400084: wheel
+    400086: wheel 1
+    2300000: body
+    2300002: Box003
+    2300004: Box005
+    2300006: brake back
+    2300008: brake front
+    2300010: chain
+    2300012: cogwheel
+    2300014: cogwheel 2
+    2300016: Donut003
+    2300018: Donut004
+    2300020: Hose003
+    2300022: Hose004
+    2300024: Hose005
+    2300026: Hose006
+    2300028: Hose007
+    2300030: Hose008
+    2300032: Hose009
+    2300034: Hose010
+    2300036: Hose011
+    2300038: Hose012
+    2300040: Hose013
+    2300042: Hose014
+    2300044: Hose015
+    2300046: Hose016
+    2300048: Hose017
+    2300050: Line007
+    2300052: Line011
+    2300054: NGon001
+    2300056: Object003
+    2300058: Object004
+    2300060: pedal
+    2300062: pedal 1
+    2300064: Plane001
+    2300066: saddle
+    2300068: steering wheel_MeshPart0
+    2300070: steering wheel_MeshPart1
+    2300072: wheel
+    2300074: wheel 1
+    3300000: body
+    3300002: Box003
+    3300004: Box005
+    3300006: brake back
+    3300008: brake front
+    3300010: chain
+    3300012: cogwheel
+    3300014: cogwheel 2
+    3300016: Donut003
+    3300018: Donut004
+    3300020: Hose003
+    3300022: Hose004
+    3300024: Hose005
+    3300026: Hose006
+    3300028: Hose007
+    3300030: Hose008
+    3300032: Hose009
+    3300034: Hose010
+    3300036: Hose011
+    3300038: Hose012
+    3300040: Hose013
+    3300042: Hose014
+    3300044: Hose015
+    3300046: Hose016
+    3300048: Hose017
+    3300050: Line007
+    3300052: Line011
+    3300054: NGon001
+    3300056: Object003
+    3300058: Object004
+    3300060: pedal
+    3300062: pedal 1
+    3300064: Plane001
+    3300066: saddle
+    3300068: steering wheel_MeshPart0
+    3300070: steering wheel_MeshPart1
+    3300072: wheel
+    3300074: wheel 1
+    4300000: Plane001
+    4300002: body
+    4300004: Line007
+    4300006: steering wheel_MeshPart0
+    4300008: steering wheel_MeshPart1
+    4300010: Box003
+    4300012: Hose012
+    4300014: Object003
+    4300016: Hose008
+    4300018: Hose006
+    4300020: Hose013
+    4300022: Hose010
+    4300024: Box005
+    4300026: brake back
+    4300028: Hose007
+    4300030: Hose016
+    4300032: Hose004
+    4300034: Hose011
+    4300036: Line011
+    4300038: Hose009
+    4300040: Hose017
+    4300042: brake front
+    4300044: Hose003
+    4300046: Hose005
+    4300048: Hose014
+    4300050: chain
+    4300052: Hose015
+    4300054: Donut004
+    4300056: cogwheel 2
+    4300058: Object004
+    4300060: saddle
+    4300062: wheel
+    4300064: wheel
+    4300066: cogwheel
+    4300068: pedal
+    4300070: pedal
+    4300072: Donut003
+    4300074: NGon001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
